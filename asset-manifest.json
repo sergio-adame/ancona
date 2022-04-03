@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ancona/static/css/main.d1b05096.chunk.css",
+    "main.js": "/ancona/static/js/main.841e741a.chunk.js",
+    "main.js.map": "/ancona/static/js/main.841e741a.chunk.js.map",
+    "runtime-main.js": "/ancona/static/js/runtime-main.d7f1d849.js",
+    "runtime-main.js.map": "/ancona/static/js/runtime-main.d7f1d849.js.map",
+    "static/css/2.69121389.chunk.css": "/ancona/static/css/2.69121389.chunk.css",
+    "static/js/2.ffce8b34.chunk.js": "/ancona/static/js/2.ffce8b34.chunk.js",
+    "static/js/2.ffce8b34.chunk.js.map": "/ancona/static/js/2.ffce8b34.chunk.js.map",
+    "index.html": "/ancona/index.html",
+    "precache-manifest.922cb1af0dda1207d6a61aa2be6994f8.js": "/ancona/precache-manifest.922cb1af0dda1207d6a61aa2be6994f8.js",
+    "service-worker.js": "/ancona/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/ancona/static/css/2.69121389.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/ancona/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ffce8b34.chunk.js.LICENSE.txt": "/ancona/static/js/2.ffce8b34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7f1d849.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.ffce8b34.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.841e741a.chunk.js"
+  ]
+}
